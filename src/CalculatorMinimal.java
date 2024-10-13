@@ -1,6 +1,6 @@
 // import scanner untruk membac inputan dari consol
 import java.util.Scanner;
-public class Calculator {
+public class CalculatorMinimal {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
 
